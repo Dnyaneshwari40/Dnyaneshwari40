@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=3000&pause=500&color=F7941D&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Dnyaneshwari!;Turning+caffeine+into+code+%F0%9F%8D%B5;Building+clarity+through+clean+code+%F0%9F%94%A7" alt="Typing SVG" />
+  <strong style="font-size: 24px;">👋 Hey there, I’m Dnyaneshwari!</strong><br/>
+  <em>Transforming logic into creativity, one line of code at a time 🚀</em>
 </p>
+
 
 ---
 
