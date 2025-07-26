@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Dnyaneshwari!</h1>
 
 <p align="center">
-  <em>Transforming ideas into scalable solutions & crafting code with creativity 🚀</em>
+  <em>Where code meets craft — and ideas become impact 🚀</em>
 </p>
 
 ---
