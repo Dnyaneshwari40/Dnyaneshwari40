@@ -64,7 +64,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwari40&repo=ChronoShield&theme=dark&hide_border=true"/>
   </a>
 </p>
-## 🤝 Let’s Connect
+ 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://github.com/Dnyaneshwari40">
